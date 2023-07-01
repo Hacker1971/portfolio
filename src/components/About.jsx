@@ -17,11 +17,7 @@ const About = () => {
               <p>Hi. I'm Tanvir Islam, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>I'm a dedicated, goal-oriented, innovative, and enthusiastic front-end developer and always determined to work hard and meet tight deadlines. I'm highly motivated and passionate about coding to make delightful user-interactive interfaces. It is my goal to make a positive impact through my work as a front-end developer as I continue to grow in my career. As a technology enthusiast, I'm always looking for new ways to collaborate and make a difference in the world through technology.</p>  
             </div>
           </div>
       </div>

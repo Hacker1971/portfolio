@@ -1,35 +1,30 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import WorkIm from '../assets/projects/pro01.png'
+import pro03 from '../assets/projects/pro03.png'
+import pro02 from '../assets/projects/pro02.png'
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
+        name:"MusiceSchool",
         image:WorkIm,
-        github:"",
-        live:"",
+        github:"https://github.com/Hacker1971/MusiceSchool.git",
+        live:"https://assignment-12-9a584.web.app/",
     },
     {
         id:2,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"Toy-village",
+        image:pro02,
+        github:"https://github.com/Hacker1971/toy-marketplace.git",
+        live:"https://toy-village-f6a74.web.app/",
     },
     {
         id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        name:"Chef-hunter",
+        image:pro03,
+        github:"https://github.com/Hacker1971/chef-recipe-hunter.git",
+        live:"https://chef-hunter-8ee20.web.app/",
     },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
+   
 
 
 ]
